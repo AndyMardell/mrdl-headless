@@ -1,0 +1,14 @@
+{
+    "name": "andymardell/mrdl-headless-theme",
+    "description": "mrdl headless theme",
+    "type": "wordpress-theme",
+    "authors": [
+        {
+            "name": "Andy Mardell",
+            "email": "andy@mardell.me"
+        }
+    ],
+    "require": {
+        "composer/installers": "*"
+    }
+}
