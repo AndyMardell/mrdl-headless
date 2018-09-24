@@ -16,3 +16,5 @@ function add_nav_menus() {
 	]);
 }
 add_action( 'init', 'add_nav_menus' );
+
+add_theme_support( 'post-thumbnails' );
